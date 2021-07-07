@@ -1,0 +1,187 @@
+@media only screen and (min-width:200px) and (max-width:991px){
+
+    body {
+        padding: 83px 20px !important;
+    }
+    .counterbody .day1{
+        padding: 30px 0 !important;
+        width: 120px !important;   
+    }
+    #myRange {
+        width: 60% !important;
+    }
+
+    #myRa {
+        margin-top: -40px !important;
+        margin-left: -10px !important;
+    }
+    .plumin {
+        font-size: 20px !important;
+    }
+    .d{
+        margin-top: 6px !important;
+    }
+    button{
+        margin-top: 10% !important;
+    }
+    .choto{
+        font-size: 15px !important;
+        margin-bottom: 10px !important;
+    }
+    .codecopy{
+        font-size: 12px !important;
+    }
+    .logodiv a img{
+        max-width: 180px;
+        margin-top: -50px;
+    }
+
+
+    
+
+
+}
+@media only screen and (min-width:200px) and (max-width:670px){
+    .counterbody .day1 p{
+        font-size: 15px !important;
+        
+    }
+
+    #myRange {
+        width: 55% !important;
+    }
+    .counterbody .day1{
+        margin: 5px;
+        padding: 30px 0 !important;
+        width: 120px !important;   
+    }
+    .counterbody .day1 span{
+        font-size: 30px !important;
+        
+    }
+    .counterbody .day1{
+        padding: 30px 0 !important;
+        width: 100px !important;   
+    }
+    #myRange {
+        width: 45% !important;
+    }
+    body {
+        padding: 70px 5px !important;
+    }
+    .slidecontainer p{
+        font-size: 20px;
+    }
+    button{
+        margin-top: 15% !important;
+    }
+    .counterbody .day1 span{
+        font-size: 22px !important;
+        
+    }
+    
+
+
+}
+
+
+@media only screen and (min-width:200px) and (max-width:477px){
+
+
+    body {
+        padding: 60px 3px !important;
+    }
+    .counterbody .day1{
+        padding: 25px 0 !important;
+        width: 80px !important;   
+    }
+    #myRange {
+        width: 60% !important;
+    }
+    #myRa {
+        margin-left: 6px !important;
+    }
+    .d p{
+        margin-left: 10px !important;
+        margin-right: 10px !important;
+
+    }
+    .counterbody .day1{
+        padding: 45px 0 !important;
+        width: 140px !important;   
+    }
+    .logodiv a img{
+       max-width: 180px;
+        margin-top: -50px;
+    }
+
+
+}
+@media only screen and (min-width:200px) and (max-width:399px){
+    .counterbody .day1 span{
+        font-size: 32px !important;
+        
+    }
+    .counterbody .day1 p{
+        font-size: 20px !important;
+        
+    }
+
+    #myRange {
+        width: 50% !important;
+    }
+    .comt{
+        font-size: 20px !important;
+    }
+    .prehead h1{
+        font-size: 30px !important;
+    }
+    .prehead p{
+        font-size: 25px;
+    }
+    .counterbody .day1{
+        padding: 30px 0 !important;
+        width: 100px !important;   
+    }
+    button{
+        margin-top: 0% !important;
+    }
+    .codecopy{
+        font-size: 12px !important;
+    }
+    
+
+
+
+}
+@media only screen and (min-width:200px) and (max-width:398px){
+
+
+    #myRange {
+        position: relative;
+    }
+    #myRa{
+        margin-top: -20px !important;
+    }
+    .counterbody .day1{
+        padding: 40px 0 !important;
+        width: 130px !important;   
+    }
+    #minus{
+            margin-top: -20.5px !important;
+            position: absolute !important;
+            margin-left: -18px !important;
+        
+    }
+    #plus{
+        margin-top: -3px !important;
+        position: absolute !important;
+        margin-left: 4px;
+    }
+
+
+
+}
+
+
+
